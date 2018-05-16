@@ -26,8 +26,7 @@ public class BookShelfIterator<T> implements Iterator<T> {
 	@SuppressWarnings("unchecked")
 	@Override
 	public T next() {
-		List<Book> books = bookShelf.getBooks();
-		return (T) books.get(index++);
+		return (T) bookShelf.getBookAt(index);
 	}
 
 }
