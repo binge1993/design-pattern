@@ -4,14 +4,13 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.Properties;
 
 /**
  * @autor binge
  * @date 2018Äê5ÔÂ17ÈÕ
  */
 public class FileProperties implements FileIO {
-	private Properties properties = new Properties();
+	private MyProperties properties = new MyProperties();
 
 	@Override
 	public void readFromFile(String filename) throws IOException {
