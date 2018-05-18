@@ -1,9 +1,9 @@
-package com.binge.test.factory.method;
+package com.binge.test.factory_method;
 
-import com.binge.demo.factory.method.Factory;
-import com.binge.demo.factory.method.IDCard;
-import com.binge.demo.factory.method.IDFactory;
-import com.binge.demo.factory.method.Product;
+import com.binge.demo.factory_method.Factory;
+import com.binge.demo.factory_method.IDCard;
+import com.binge.demo.factory_method.IDFactory;
+import com.binge.demo.factory_method.Product;
 
 /**
  * @autor binge

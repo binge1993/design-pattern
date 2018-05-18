@@ -1,4 +1,4 @@
-package com.binge.demo.template.method;
+package com.binge.demo.template_method;
 
 /**
  * @autor binge

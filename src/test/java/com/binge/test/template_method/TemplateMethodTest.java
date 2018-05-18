@@ -1,8 +1,8 @@
-package com.binge.test.template.method;
+package com.binge.test.template_method;
 
-import com.binge.demo.template.method.AbstractDisplay;
-import com.binge.demo.template.method.CharDisplay;
-import com.binge.demo.template.method.StringDisplay;
+import com.binge.demo.template_method.AbstractDisplay;
+import com.binge.demo.template_method.CharDisplay;
+import com.binge.demo.template_method.StringDisplay;
 
 /**
  * @autor binge

@@ -1,4 +1,4 @@
-package com.binge.demo.factory.method;
+package com.binge.demo.factory_method;
 
 import java.util.ArrayList;
 import java.util.List;
